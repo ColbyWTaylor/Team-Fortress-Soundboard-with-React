@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Team-Fortress-Soundboard-with-React/static/css/main.37d751d3.chunk.css",
+    "main.js": "/Team-Fortress-Soundboard-with-React/static/js/main.daebd8fc.chunk.js",
+    "main.js.map": "/Team-Fortress-Soundboard-with-React/static/js/main.daebd8fc.chunk.js.map",
+    "runtime-main.js": "/Team-Fortress-Soundboard-with-React/static/js/runtime-main.96398d8f.js",
+    "runtime-main.js.map": "/Team-Fortress-Soundboard-with-React/static/js/runtime-main.96398d8f.js.map",
+    "static/js/2.ac9ebb95.chunk.js": "/Team-Fortress-Soundboard-with-React/static/js/2.ac9ebb95.chunk.js",
+    "static/js/2.ac9ebb95.chunk.js.map": "/Team-Fortress-Soundboard-with-React/static/js/2.ac9ebb95.chunk.js.map",
+    "index.html": "/Team-Fortress-Soundboard-with-React/index.html",
+    "precache-manifest.d366e210b8fa615ce0798cb50e3f82c2.js": "/Team-Fortress-Soundboard-with-React/precache-manifest.d366e210b8fa615ce0798cb50e3f82c2.js",
+    "service-worker.js": "/Team-Fortress-Soundboard-with-React/service-worker.js",
+    "static/css/main.37d751d3.chunk.css.map": "/Team-Fortress-Soundboard-with-React/static/css/main.37d751d3.chunk.css.map",
+    "static/js/2.ac9ebb95.chunk.js.LICENSE.txt": "/Team-Fortress-Soundboard-with-React/static/js/2.ac9ebb95.chunk.js.LICENSE.txt",
+    "static/media/demoman_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/demoman_taunts01.d6f6dd02.wav",
+    "static/media/engineer_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/engineer_taunts01.5779c12f.wav",
+    "static/media/heavy_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/heavy_taunts01.47012018.wav",
+    "static/media/medic_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/medic_taunts01.f506f779.wav",
+    "static/media/pyro_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/pyro_taunts01.bba845c1.wav",
+    "static/media/scout_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/scout_taunts01.ff6ab53d.wav",
+    "static/media/sniper_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/sniper_taunts01.aa1c5d9c.wav",
+    "static/media/soldier_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/soldier_taunts01.fed4a8ee.wav",
+    "static/media/spy_taunts01.wav": "/Team-Fortress-Soundboard-with-React/static/media/spy_taunts01.eb23835c.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96398d8f.js",
+    "static/js/2.ac9ebb95.chunk.js",
+    "static/css/main.37d751d3.chunk.css",
+    "static/js/main.daebd8fc.chunk.js"
+  ]
+}
