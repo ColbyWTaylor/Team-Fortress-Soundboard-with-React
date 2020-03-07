@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Team-Fortress-Soundboard-with-React/precache-manifest.d366e210b8fa615ce0798cb50e3f82c2.js"
+  "/Team-Fortress-Soundboard-with-React/precache-manifest.9efa1adfb623de2a275e3ac2b6eb0a37.js"
 );
 
 self.addEventListener('message', (event) => {
